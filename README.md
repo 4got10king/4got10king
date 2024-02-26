@@ -1,4 +1,4 @@
-[1.png]
+![1.png](header.png)
 
 <!--
 **4got10king/4got10king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

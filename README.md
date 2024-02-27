@@ -1,7 +1,10 @@
 ![1.png](header.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=School21+student)](https://git.io/typing-svg)
+
+<--
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

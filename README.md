@@ -9,11 +9,11 @@
 
 - 📫 How to reach me:
 
-TG - King4got10
+        TG - King4got10
 
-WhatsApp - +79829328383
+        WhatsApp - +79829328383
 
-Mobile Phone - +79126639126
+        Mobile Phone - +79126639126
 
 
 <!---

@@ -8,11 +8,8 @@
 - 🌱 I’m currently learning ML & DS, backend
 
 - 📫 How to reach me:
-
         TG - King4got10
-
         WhatsApp - +79829328383
-
         Mobile Phone - +79126639126
 
 

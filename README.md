@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=School+21+student)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning ML & DS, backend
-- 🔭 I’m currently working on Matrix.hpp
+- 🔭 I’m currently working on Matrix.hpp and PostrgeSQL
 
 - 📫 How to reach me:
 - 

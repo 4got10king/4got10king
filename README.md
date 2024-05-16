@@ -10,7 +10,7 @@
   
 ### 📞 How to reach me
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79829328383)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/89829328383)
 [![Phone](https://img.shields.io/badge/Phone-00ff80?style=for-the-badge)](tel:79126639126)
 [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aldavletshina77654@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/king4got10)

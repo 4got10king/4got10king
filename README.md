@@ -1,11 +1,11 @@
 ![1.png](header.png)
 
 
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+backend+developer)]
+#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+backend+developer)
 
 - 🌱 I’m currently learning ML & DS, backend
 
- 
+
 ### 📞 How to reach me
 
 

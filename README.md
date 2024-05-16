@@ -7,15 +7,8 @@
 
 - 🌱 I’m currently learning ML & DS, backend
 
-
-
-        TG - King4got10
   
-        WhatsApp - +79829328383
-  
-        Mobile Phone - +79126639126
-  
-### How to reach me
+### 📞 How to reach me
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+79829328383)
 [![Phone](https://img.shields.io/badge/Phone-00ff80?style=for-the-badge)](tel:+79126639126)

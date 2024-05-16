@@ -10,8 +10,10 @@
 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/89829328383)
-[![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aldavletshina77654@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/king4got10)
+
+[![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aldavletshina777@gmail.com)
+[![Yandex Mail Badge](https://img.shields.io/badge/Yandex Mail-FFA500?style=for-the-badge&logo=yandex&logoColor=white)](mailto:Aldavletshina77654@yandex.ru)
 
 
 ### 🚀 Languages:

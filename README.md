@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=School+21+student)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning ML & DS, backend
-- 🔭 I’m currently working on Matrix.hpp
+
 
 
         TG - King4got10
@@ -15,20 +15,10 @@
   
         Mobile Phone - +79126639126
   
+### How to reach me
 
-
-<!---
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+79829328383)
+[![Phone](https://img.shields.io/badge/Phone-00ff80?style=for-the-badge)](tel:+79126639126)
 [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aldavletshina77654@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/king4got10)
 

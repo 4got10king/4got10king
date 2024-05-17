@@ -34,10 +34,10 @@
 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](ссылка_на_ваш_проект)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-[![aiogram](https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](ссылка_на_ваш_проект)
-[![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](ссылка_на_ваш_проект)
+![aiogram](https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
 
 
 ### 💻 IDEs/Editors:
@@ -58,4 +58,5 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 

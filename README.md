@@ -60,3 +60,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4got10king&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

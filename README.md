@@ -67,3 +67,11 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4got10king&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/4got10king"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4got10king&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="auto" height="150" /></a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4got10king&theme=2077" width="auto" height="150">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4got10king&theme=2077" width="642" height="auto">

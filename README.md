@@ -65,9 +65,11 @@
 
 
 ### 📈 Карьера:
-  - [EpgService]((https://epgservice.ru/))
-  - [УлбынисьAI](https://www.smile-ai-market.ru/)
 
+  - 🎓 Выпускник [21 School](https://21-school.ru)
+
+  - Backend-разработчик [EpgService](https://epgservice.ru/)
+  - Backend-разработчик [УлбынисьAI](https://www.smile-ai-market.ru/)
 
 
 ### 📊 My GitHub Stats

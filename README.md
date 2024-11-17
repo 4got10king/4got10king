@@ -43,7 +43,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%2300adef.svg?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-green.svg?style=for-the-badge)](https://your-ci-cd-link)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-green.svg?style=for-the-badge)
 
 ### 📈 Карьера:
 

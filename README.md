@@ -3,14 +3,6 @@
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=PYTHON+DEVELOPER)
 
-### 📞 How to reach me
-
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/89126639126)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/king4got10)
-[![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aldavletshina777@gmail.com)
-[![Yandex Mail Badge](https://img.shields.io/badge/Yandex.mail-FFA500?style=for-the-badge&logo=yandex&logoColor=white)](mailto:Aldavletshina77654@yandex.ru)
-
 
 ### 🚀 Languages:
 
@@ -36,13 +28,6 @@
 ![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
 
 
-### 💻 IDEs/Editors:
-
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=white)
-
-
 ### 👾 Other tools:
 
 
@@ -66,6 +51,14 @@
 
   - Backend-разработчик [EpgService](https://epgservice.ru/)
   - Backend-разработчик [УлбынисьAI](https://www.smile-ai-market.ru/)
+
+### 📞 How to reach me
+
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/89126639126)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/king4got10)
+[![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aldavletshina777@gmail.com)
+[![Yandex Mail Badge](https://img.shields.io/badge/Yandex.mail-FFA500?style=for-the-badge&logo=yandex&logoColor=white)](mailto:Aldavletshina77654@yandex.ru)
 
 
 ### 📊 My GitHub Stats

@@ -64,8 +64,9 @@
 ![Docker](https://img.shields.io/badge/docker-%2300adef.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-
+### 📈 Карьера:
+  - [EpgService]((https://epgservice.ru/))
+  - [УлбынисьAI](https://www.smile-ai-market.ru/)
 
 
 

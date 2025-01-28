@@ -38,8 +38,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-169a4e?style=for-the-badge&logo=nginx&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%2300adef.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📈 Карьера:

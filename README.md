@@ -13,12 +13,15 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0c5e26?style=flat-square&logo=mongodb&logoColor=green)
 
 
 ### 🌟 Frameworks:
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3eaabf?style=flat-square&logo=flask&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
 
 ![aiogram](https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
 ![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
@@ -29,9 +32,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
   
 ![Make](https://img.shields.io/badge/Make-%23008FBA.svg?color=red&style=for-the-badge&logo=Make&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-green.svg?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-169a4e?style=flat-square&logo=nginx&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -44,7 +49,7 @@
 
   - Backend-разработчик [EpgService](https://epgservice.ru/)
   - Backend-разработчик [УлбынисьAI](https://www.smile-ai-market.ru/)
-  - Backend-разработчик [PornX](https://pornx.ai/)
+  - Backend-разработчик [Vose.ai](https://pornx.ai/)
 
 ### 📞 How to reach me
 

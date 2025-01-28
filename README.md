@@ -21,7 +21,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3eaabf?style=flat-square&logo=flask&logoColor=white)
-![Github Actions](https://img.shields.io/badge/Github_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
 
 ![aiogram](https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
 ![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)

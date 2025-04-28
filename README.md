@@ -46,7 +46,7 @@
 
   - Backend-разработчик [EpgService](https://epgservice.ru/)
   - Backend-разработчик [УлбынисьAI](https://www.smile-ai-market.ru/)
-  - Backend-разработчик [Vose.ai](https://pornx.ai/)
+  - Backend-разработчик [Vose.ai](https://pornx.co)
 
 ### 📞 How to reach me
 
